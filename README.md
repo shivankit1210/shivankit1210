@@ -3,7 +3,7 @@
 
 I'm Shivankit Agarwal, a passionate and detail-oriented front-end developer entering the exciting world of software development. My expertise lies in creating engaging and responsive user interfaces using the following technologies:
 
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript, C++, Basic Java.
 - **Front-End Framework:** ReactJS
 - **Styling:** Bootstrap
 - **Database and Authentication:** Firebase
