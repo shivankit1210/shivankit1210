@@ -1,4 +1,4 @@
-### Hi there frndz👋
+### Hi there friends👋
 
 
 I'm Shivankit Agarwal, a passionate and detail-oriented front-end developer entering the exciting world of software development. My expertise lies in creating engaging and responsive user interfaces using the following technologies:
@@ -31,6 +31,6 @@ Let's connect and learn together! Feel free to reach out for collaboration, advi
 [Leetcode](https://leetcode.com/_SHIV_ANKIT_/)
 
 
-Happy coding! 🚀
-Shivankit agarwal
+Happy coding Friends! 🚀
+Shivankit Agarwal
 
