@@ -1,4 +1,4 @@
-### Hi there everyone 👋
+### Hi there people 👋
 
 
 I'm Shivankit Agarwal, a passionate and detail-oriented front-end developer entering the exciting world of software development. My expertise lies in creating engaging and responsive user interfaces using the following technologies:
