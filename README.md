@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [FireBase](https://github.com/shivankit1210/Login_page_Using_Firebase.git)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivankit1210](https://github.com/shivankit1210)
+- 👨‍💻 All of my projects are available at [here](https://github.com/shivankit1210?tab=repositories)
 
 - 💬 Ask me about **ReactJs, Firebase,**
 
 - 📫 How to reach me **shivankit1210@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/103_ZQG-nxeR43M_e7uq5ePm313ZovO-g/view?usp=sharing](https://drive.google.com/file/d/103_ZQG-nxeR43M_e7uq5ePm313ZovO-g/view?usp=sharing)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1kZXYf0CHSa4d8LBZYGTrmm7fueGxf1jN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
