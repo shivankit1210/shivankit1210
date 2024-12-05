@@ -26,5 +26,3 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivankit1210&" alt="shivankit1210" /></p>
-
