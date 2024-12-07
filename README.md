@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivankit Agarwal</h1>
 <h3 align="center">a passionate and detail-oriented front-end developer entering the exciting world of software development. My expertise lies in creating engaging and responsive user interfaces using the following technologies.</h3>
 
-- 🔭 I’m currently working on [FireBase](https://github.com/shivankit1210/Login_page_Using_Firebase.git)
+- 🔭 I’m currently working in [FireBase](https://github.com/shivankit1210/Login_page_Using_Firebase.git)
 
 - 🌱 I’m currently learning **Next.js**
 
